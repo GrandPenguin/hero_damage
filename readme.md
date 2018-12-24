@@ -7,7 +7,7 @@ It based on attack power, intelligence, critical, haste, mastery and versatile o
 
 Update if some change happened.
 
-## Concurrent hero: 
+## Current hero: 
 - Restribution Paladin
 Skill, buff
 (not considering the haste effect)

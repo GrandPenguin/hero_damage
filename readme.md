@@ -11,4 +11,5 @@ Update if some change happened.
 - Restribution Paladin
 Skill, buff
 (not considering the haste effect)
+(auto attack a little bit weired, change it later )
 

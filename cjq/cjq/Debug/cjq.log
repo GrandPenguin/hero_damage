@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\documents\visual studio 2015\test_wow\cjq\cjq\skill.h(63): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\documents\visual studio 2015\test_wow\cjq\cjq\skill.h(28): warning C4715: “skill_all::get_name”: 不是所有的控件路径都返回值
+d:\documents\visual studio 2015\test_wow\cjq\cjq\buff.h(27): warning C4715: “buff_all::get_name”: 不是所有的控件路径都返回值
+  cjq.vcxproj -> d:\documents\visual studio 2015\test_wow\cjq\Debug\cjq.exe
+  cjq.vcxproj -> d:\documents\visual studio 2015\test_wow\cjq\Debug\cjq.pdb (Partial PDB)
